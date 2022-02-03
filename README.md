@@ -1,1 +1,1 @@
-# Estudos em arquitetura e padrões CSS
+# Estudos em arquitetura de componentes e padrões CSS
